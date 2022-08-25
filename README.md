@@ -2,15 +2,14 @@
 
 This repository contains python based interactive Tic-Tac-Toe game
 
-##Running Tic-Tac-Toe:
-
+## Running Tic-Tac-Toe:
 '''
 git clone https://github.com/itz-sayak/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
 python tic_tac_toe.py
 '''
 
-##Controls
+## Controls
 
 Player X starts the game
 
@@ -22,6 +21,6 @@ A track of player scores is maintained
 
 Click anywhere on the result screen to play again
 
-##Author
+## Author
 
 [SAYAK DUTTA](https://github.com/itz-sayak)
